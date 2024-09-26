@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1585-the-kth-factor-of-n](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1585-the-kth-factor-of-n) |
