@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -87,10 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
+## Counting
+|  |
+| ------- |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 <!---LeetCode Topics End-->
