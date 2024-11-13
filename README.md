@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
