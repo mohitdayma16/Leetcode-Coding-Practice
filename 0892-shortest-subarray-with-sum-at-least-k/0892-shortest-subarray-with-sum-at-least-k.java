@@ -1,48 +1,34 @@
+import java.util.*;
+
 class Solution {
     public int shortestSubarray(int[] nums, int k) {
-        int res = Integer.MAX_VALUE;
-        long curSum = 0;
-        Deque<Pair<Long, Integer>> q = new ArrayDeque<>();  // (prefix_sum, end_idx)
-        
-        for (int r = 0; r < nums.length; r++) {
-            curSum += nums[r];
-            
-            if (curSum >= k) {
-                res = Math.min(res, r + 1);
+        int n = nums.length;
+        // Initialize prefix sum array
+        long[] prefixSum = new long[n + 1];
+        for (int i = 0; i < n; i++) {
+            prefixSum[i + 1] = prefixSum[i] + nums[i];
+        }
+
+        // Deque to store indices of prefix sums
+        Deque<Integer> deque = new LinkedList<>();
+        int minLength = n + 1;
+
+        for (int i = 0; i < prefixSum.length; i++) {
+            // Remove indices from the front of the deque if they form a valid subarray
+            while (!deque.isEmpty() && prefixSum[i] - prefixSum[deque.peekFirst()] >= k) {
+                minLength = Math.min(minLength, i - deque.pollFirst());
             }
-            
-            // Find the minimum valid window ending at r
-            while (!q.isEmpty() && curSum - q.peekFirst().getKey() >= k) {
-                Pair<Long, Integer> front = q.pollFirst();
-                res = Math.min(res, r - front.getValue());
+
+            // Maintain deque to be increasing
+            while (!deque.isEmpty() && prefixSum[i] <= prefixSum[deque.peekLast()]) {
+                deque.pollLast();
             }
-            
-            // Validate the monotonic deque
-            while (!q.isEmpty() && q.peekLast().getKey() > curSum) {
-                q.pollLast();
-            }
-            q.offerLast(new Pair<>(curSum, r));
+
+            // Add current index to the deque
+            deque.offerLast(i);
         }
-        
-        return res == Integer.MAX_VALUE ? -1 : res;
-    }
-    
-    // Helper class to store pairs
-    static class Pair<K, V> {
-        private K key;
-        private V value;
-        
-        public Pair(K key, V value) {
-            this.key = key;
-            this.value = value;
-        }
-        
-        public K getKey() {
-            return key;
-        }
-        
-        public V getValue() {
-            return value;
-        }
+
+        // Return result
+        return minLength == n + 1 ? -1 : minLength;
     }
 }
