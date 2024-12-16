@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [1585-the-kth-factor-of-n](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
