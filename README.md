@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1755-defuse-the-bomb) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -187,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
