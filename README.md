@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1063-best-sightseeing-pair) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
