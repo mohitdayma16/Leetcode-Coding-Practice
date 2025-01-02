@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1025-minimum-cost-for-tickets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2562-count-ways-to-build-good-strings) |
