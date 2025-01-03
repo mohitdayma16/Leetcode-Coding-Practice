@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
+| [2358-number-of-ways-to-split-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
