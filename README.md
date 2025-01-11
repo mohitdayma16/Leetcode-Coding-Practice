@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0812-rotate-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
+| [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
