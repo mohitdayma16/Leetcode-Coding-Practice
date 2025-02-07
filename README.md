@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
