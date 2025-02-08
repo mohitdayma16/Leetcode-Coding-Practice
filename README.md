@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2685-first-completely-painted-row-or-column) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -429,4 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
