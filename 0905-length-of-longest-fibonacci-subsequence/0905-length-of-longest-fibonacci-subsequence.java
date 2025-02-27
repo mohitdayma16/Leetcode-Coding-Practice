@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int lenLongestFibSubseq(int[] arr) {
         if (arr.length <= 2) return 0;
