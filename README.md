@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2685-first-completely-painted-row-or-column) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2551-apply-operations-to-an-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3447-clear-digits) |
