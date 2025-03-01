@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
