@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
 | ------- |
