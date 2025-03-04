@@ -6,7 +6,7 @@ class Solution {
         return ans;
     }
 
-    private int findFirst(int[] arr, int k) {
+    public int findFirst(int[] arr, int k) {
         int left = 0, right = arr.length - 1, first = -1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
@@ -22,7 +22,7 @@ class Solution {
         return first;
     }
 
-    private int findLast(int[] arr, int k) {
+    public int findLast(int[] arr, int k) {
         int left = 0, right = arr.length - 1, last = -1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
