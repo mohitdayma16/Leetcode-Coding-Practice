@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
