@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
