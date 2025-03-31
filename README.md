@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2509-minimize-xor) |
+| [2681-put-marbles-in-bags](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2681-put-marbles-in-bags) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
