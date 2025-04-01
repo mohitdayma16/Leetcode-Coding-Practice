@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
