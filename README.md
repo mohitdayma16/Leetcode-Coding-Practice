@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
