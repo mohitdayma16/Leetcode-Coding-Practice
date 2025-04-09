@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
