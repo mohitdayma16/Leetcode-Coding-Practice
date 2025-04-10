@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3447-clear-digits) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
