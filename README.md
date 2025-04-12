@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0792-binary-search) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
