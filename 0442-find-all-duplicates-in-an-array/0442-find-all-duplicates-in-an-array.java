@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        List<Integer> duplicates = new ArrayList<>();
+    List<Integer> duplicates = new ArrayList<>();
     int i=0;
     while(i<nums.length){
        int correct = nums[i]-1;
