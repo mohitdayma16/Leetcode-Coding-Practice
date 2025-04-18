@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
