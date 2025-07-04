@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
