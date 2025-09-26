@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1013-fibonacci-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2050-count-good-numbers) |
 ## Memoization
