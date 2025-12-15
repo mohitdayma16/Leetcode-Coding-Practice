@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3001-apply-operations-to-maximize-score) |
