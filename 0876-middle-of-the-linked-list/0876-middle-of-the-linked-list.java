@@ -10,21 +10,12 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode node = head;
-        int size=0;
-        while(node != null){
-            size++;
-            node = node.next;
+        List<ListNode> list = new ArrayList<>();
+
+        while (head != null) {
+            list.add(head);
+            head = head.next;
         }
-        int idx= size/2;
-        ListNode ans =getNode(head,idx);
-        return ans;
-    }
-    public ListNode getNode(ListNode head, int index){
-        ListNode node  = head;
-        for(int i=0;i<index;i++){
-            node = node.next;
-        }
-        return node;
+        return list.get(list.size() / 2);
     }
 }
