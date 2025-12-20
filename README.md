@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1063-best-sightseeing-pair) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1160-letter-tile-possibilities) |
