@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1170-shortest-common-supersequence) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2089-maximum-matrix-sum) |
