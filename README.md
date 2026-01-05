@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2434-design-a-number-container-system) |
