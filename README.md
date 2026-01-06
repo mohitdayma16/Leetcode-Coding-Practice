@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0768-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
