@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0169-majority-element) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mohitdayma16/Leetcode-Coding-Practice/tree/master/3001-apply-operations-to-maximize-score) |
