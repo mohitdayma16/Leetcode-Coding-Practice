@@ -13,20 +13,6 @@ class Solution {
                         stack.pop();
                     }
                 }
-                if(ch == ']'){
-                    if(stack.isEmpty() || stack.peek() != '['){
-                        stack.push(ch);
-                    }else{
-                        stack.pop();
-                    }
-                }
-                if(ch == '}'){
-                    if(stack.isEmpty() || stack.peek() != '{'){
-                        stack.push(ch);
-                    }else{
-                        stack.pop();
-                    }
-                }
             }
         }
         return stack.size();
